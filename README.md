@@ -1,7 +1,7 @@
 
 - 💻 Hoje Trabalho com Joomla na Aeronáutica
 - 🌱 Estudando com Curso em Video / Estudonautas.
-- 🎓 Técnico em Desenvolvimento de Sistemas & Superior em Análise e Desenvolvimento de Sistemas (Cursando) 
+- 🎓 Técnico em Desenvolvimento de Sistemas & Superior em Engenharia de Software (Cursando) 
 
 
 <div align="center">
