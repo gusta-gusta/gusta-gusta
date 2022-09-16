@@ -1,6 +1,6 @@
 
 - 💻 Trabalho no Instituto de Fomento e Coordenação Industrial - CTA 
-- 🌱 Estudando com Curso em Video / Estudonautas.
+- 🌱 Estudando com Curso em Video / Alura.
 - 🎓 Técnico em Desenvolvimento de Sistemas & Superior em Engenharia de Software (Cursando) 
 
 
